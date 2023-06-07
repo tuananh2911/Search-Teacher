@@ -7,7 +7,7 @@
     "PGPASSWORD": "1wYJr2oNBIgl",
     "ENDPOINT_ID": "ep-square-sun-290762",
     "POSTGRES_PORT":"5432",
-    "PORT":5000
+    "PORT":"5000"
   },
   "builds": [
     {
