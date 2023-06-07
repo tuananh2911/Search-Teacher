@@ -26,5 +26,6 @@
         "DELETE"
       ]
     }
-  ]
+  ],
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }
